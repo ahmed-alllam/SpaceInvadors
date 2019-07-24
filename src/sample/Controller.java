@@ -22,6 +22,7 @@ import java.util.Collections;
 import java.util.Random;
 
 public class Controller {
+    //ahjh
     private static int killed, death;
     private static int level = 40;
     public Pane pane;
